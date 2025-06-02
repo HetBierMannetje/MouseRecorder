@@ -40,10 +40,10 @@ How to Use / Installation:
     Data Files: The application will create and use the following files and folders in the same directory as the .exe:
         settings.ini: Stores your general settings, UI visibility preferences, and global keybind configurations.
         recordings/: This folder will be created to store your saved recordings (as individual .json files) and the last_recording.json.
-        macros/: This folder will be created (though macro functionality has been removed, the directory might still be created by the script if the folder creation line wasn't removed - it should be for a clean version without macros).
+        macros/: for future updates im planning on adding macro's to the mouse recorder and this file might already be created.
         bugreport.txt: Logs application activity and any errors encountered. This file is reset each time the app starts.
     Permissions:
-        Important: To reliably capture mouse and keyboard events across all applications, you might need to run the executable as an administrator. This is often necessary for global input monitoring tools.
+        Important: To reliably capture mouse and keyboard events across all applications, you might need to run the executable as an administrator. This is often necessary for global input monitoring tools though I have not encountered this myself.
 
 Thank you for trying out the Mouse & Keyboard Recorder!
 
