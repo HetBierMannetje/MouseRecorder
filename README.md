@@ -26,7 +26,7 @@ Key Features:
     User Interface:
         Sleek, professional dark theme for comfortable use.
         Toggle the visibility of the "Edit Clicks" section via the "View" menu to customize your workspace (window height adjusts automatically).
-        Clear in-app log with timestamps (hh:ss AM/PM format, prefixed with 🕔).
+        Clear in-app log with timestamps (hh:ss AM/PM format).
     Robustness & Debugging:
         A dedicated "robust exit" keybind (uses the configured 'Exit' keybind, default '3') designed to forcefully close the application if other keybinds become unresponsive.
         Automatic bugreport.txt generation in the application's folder, logging actions and errors for troubleshooting. This file is reset each time the app starts.
