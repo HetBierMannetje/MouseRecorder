@@ -17,10 +17,9 @@ Key Features:
         Default keybinds for core actions: Record ('1'), Playback ('2'), Exit ('3'), AutoClick ('4').
         Easily change these keybinds via the "Options > Change Keybinds" menu.
     Recording Management:
-        Save your recorded sequences with custom names. Each recording is stored as an individual .json file in a recordings folder.
+        Save your recorded sequences with custom names. Each recording is stored in a .json file.
         Load previously saved recordings from a dropdown list.
         Delete unneeded recordings.
-        Auto-Save Last Session: The most recent recording (either newly made or loaded) is automatically saved as last_recording.json and will be auto-loaded when the application starts.
         Editable Click Count: The JSON format for saved mouse clicks allows you to manually edit the repetition count for a series of identical clicks if desired (look for "type": "repeated_mouse_click" and its "count" field in the saved .json files).
     Recording Editing:
         Add new left mouse clicks to the end of your current or loaded recording at a user-specified screen position and quantity.
