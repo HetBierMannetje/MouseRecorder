@@ -34,7 +34,7 @@ Key Features:
 
 How to Use / Installation:
 
-    Download: Get the Mourse&KeyboardRecUpdateWorking.exe file (or your chosen executable name).
+    Download: Get the Mourse&KeyboardRecUpdateWorking.exe file from the releases.
     Run: No installation is required. Simply place the .exe in a folder of your choice and run it.
     Data Files: The application will create and use the following files and folders in the same directory as the .exe:
         settings.ini: Stores your general settings, UI visibility preferences, and global keybind configurations.
