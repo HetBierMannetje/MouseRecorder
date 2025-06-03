@@ -38,8 +38,7 @@ How to Use / Installation:
     Run: No installation is required. Simply place the .exe in a folder of your choice and run it.
     Data Files: The application will create and use the following files and folders in the same directory as the .exe:
         settings.ini: Stores your general settings, UI visibility preferences, and global keybind configurations.
-        recordings/: This folder will be created to store your saved recordings (as individual .json files) and the last_recording.json.
-        macros/: for future updates im planning on adding macro's to the mouse recorder and this file might already be created.
+        recordings.json: This file will be created to store your saved recordings.
         bugreport.txt: Logs application activity and any errors encountered. This file is reset each time the app starts.
     Permissions:
         Important: To reliably capture mouse and keyboard events across all applications, you might need to run the executable as an administrator. This is often necessary for global input monitoring tools though I have not encountered this myself.
